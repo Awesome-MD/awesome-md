@@ -1,0 +1,3 @@
+[submodule "lammps/graphene-stress-strain"]
+	path = lammps/graphene-stress-strain
+	url = git@github.com:Awesome-MD/graphene-stress-strain.git
